@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: lwjgl_util-2.9.2.jar gdx-1.9.4.jar jorbis-0.0.17.jar lwjgl
+ -platform-2.9.2-natives-linux.jar gdx-bullet-platform-1.9.4-natives-d
+ esktop.jar jlayer-1.0.1-gdx.jar lwjgl-platform-2.9.2-natives-osx.jar 
+ gdx-bullet-1.9.4.jar jinput-platform-2.0.5-natives-osx.jar gdx-backen
+ d-lwjgl-1.9.4.jar lwjgl-platform-2.9.2-natives-windows.jar jinput-pla
+ tform-2.0.5-natives-windows.jar jinput-platform-2.0.5-natives-linux.j
+ ar jinput-2.0.5.jar gdx-platform-1.9.4-natives-desktop.jar lwjgl-2.9.
+ 2.jar jutils-1.0.0.jar
+Main-Class: com.nothrim.desktop.DesktopLauncher
+
